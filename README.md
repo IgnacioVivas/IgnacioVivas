@@ -1,4 +1,4 @@
-### Hola, soy Ignacio Vivas 👋
+### Hola, soy Ignacio Vivas Viscarra 👋
 
 💡 Creatividad e innovación.                                                                                                                                             
 🎡 Desarrollador FullStack enfocado en Front-End.                                                                                                                         
